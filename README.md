@@ -1,6 +1,7 @@
-#ACTIVIDADES
-I like to run
-I like travel
-I like to cook
-I like watching movies
-I like to travel
+
+#Marco Hobby
+me gusta jugar partido
+me gusta escuchar musica
+me gusta armar mi cubo de rubick
+me gusta pasear con mi perro
+me gusta escuchar podcast

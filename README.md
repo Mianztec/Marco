@@ -14,3 +14,10 @@
 4. me gusta pasear con mi perro
 5. me gusta escuchar podcast
 >>>>>>> main
+
+#CURSOS BASICOS
+*1 Matematica
+*2 Fisica
+*3 Quimica
+*4 Historia
+*5 Comunicacion
